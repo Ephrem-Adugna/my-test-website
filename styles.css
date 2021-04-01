@@ -1,0 +1,11 @@
+h1{
+  text-align: center;
+    color: white;
+    font-variant: small-caps;
+    font-size:150px ;
+    font-family: roboto;
+
+}
+*{
+    background-color: rgb(15, 29, 51);
+}
